@@ -7,7 +7,7 @@
 title: morgane
 
 # First name or full name
-name: julian
+name: Morgane Julian
 date: 2020-10-02 13:40
 
 # One line.
